@@ -1,7 +1,11 @@
 # ovirtkvm
 redhat ovirt manager install
+
+
 ###############################################################
 ### ovirtengine install
+
+
 install the centos7 minon
 yum install -y epel-release
 yum install http://resources.ovirt.org/pub/yum-repo/ovirt-release42.rpm -y
