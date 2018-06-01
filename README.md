@@ -19,3 +19,6 @@ yum makcecache
 
 yum install ovirt-engine -y
 
+engine-setup
+
+https://ovirtensrv/ovirt-engine
