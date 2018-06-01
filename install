@@ -22,3 +22,12 @@ yum install ovirt-engine -y
 engine-setup
 
 https://ovirtensrv/ovirt-engine
+
+yum install -y tigervnc 
+yum install -y virt-viewer
+yum install -y spice-xpi
+wget https://fedorapeople.org/groups/virt/virtio-win/virtio-win.repo   -O /etc/yum.repos.d/virtio-win.repo
+
+
+
+
